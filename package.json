@@ -2,7 +2,7 @@
   "name": "social-link-profile",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://itsth3root.github.io/FM-social-link-profile",
+  "homepage": "https://itsth3root.github.io/FM-slp",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
